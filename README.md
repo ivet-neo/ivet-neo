@@ -11,4 +11,4 @@ Gaming and computers have been part of my life and hobbies since I was little, a
 If there is any fellow programmer/fantasy geek who would like to be my guide or my study partner, or just chat (about Python or if Alliance/Horde is better), don't hesitate to reach out!\
 I'd love to be part of the IT community trying to find out that typo in their code! 🙌\
 \
-*Fun fact: Did you know that Viggo Mortensen broke his toe while kicking helmet as Aragorn in LoTR?* 😎
+*Fun fact: Did you know that Viggo Mortensen broke his toe while kicking a helmet as Aragorn in LoTR?* 😎
