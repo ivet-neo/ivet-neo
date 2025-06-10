@@ -1,7 +1,7 @@
 ## Hello! 
 
 
-My name is Iveta and I am relatively new to programming and GitHub. ✨\
+My name is Ivetam I'm 26 years old and I am relatively new to programming and GitHub. ✨\
 \
 I've completed 100 days of code on Udemy, done some projects by myself in Python and now learning pytest and testing in general. 🌱\
 \
