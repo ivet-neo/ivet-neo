@@ -3,7 +3,7 @@
 
 My name is Iveta, I'm 26 years old and I am a Python developer in progress and relatively new to GitHub. ✨🐍\
 \
-I've completed 100 days of code on Udemy, done some projects by myself in Python (have passion especially for building useful, playful, and sometimes slightly chaotic apps) and now learning pytest and testing in general. 🌱\
+I've completed 100 days of code on Udemy, done some projects by myself in Python (have passion especially for building useful, playful, and sometimes slightly chaotic apps) and currently building another one and  learning Pytest and testing in general. 🌱\
 \
 Gaming and computers have been part of my life and hobbies since I was little, and even though I came from a completely different life path, half a year ago I said - \
     - ***"Hey, why not try and connect work and hobby together?"*** - and that's what I am trying to accomplish now. 🔥\
